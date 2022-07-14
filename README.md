@@ -11,6 +11,8 @@
 
 - [Constants(상수)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/constants.md)
 
-- [데이터 타입 정리(variable.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/variable.js)
+- [data type(variable.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/variable.js)
+
+- [operator(operator.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/operator.js)
 ### WEB
 - [SPA(Single Page Application)](https://github.com/Melonisjy/TIL/blob/main/WEB/SPA.md)
