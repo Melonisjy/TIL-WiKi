@@ -14,5 +14,7 @@
 - [data type(variable.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/variable.js)
 
 - [operator(operator.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/operator.js)
+
+- [function 정리(function.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/function.js)
 ### WEB
 - [SPA(Single Page Application)](https://github.com/Melonisjy/TIL/blob/main/WEB/SPA.md)
