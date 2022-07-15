@@ -18,6 +18,7 @@ console.log(globalName);
 
 // var (don;t ever use this!)
 // var hoisting (move declaration from bottom to top)
+// hoisting: 코드가 실행하기 전 변수선언/함수선언이 해당 스코프의 최상단으로 끌어 올려진 것 같은 현상.
 // has no block scope
 {
     age = 4;
