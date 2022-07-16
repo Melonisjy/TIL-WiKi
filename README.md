@@ -16,5 +16,7 @@
 - [operator(operator.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/operator.js)
 
 - [function 정리(function.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/function.js)
+
+- [Object Vs Class(class.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/class.js)
 ### WEB
 - [SPA(Single Page Application)](https://github.com/Melonisjy/TIL/blob/main/WEB/SPA.md)
