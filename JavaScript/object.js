@@ -57,3 +57,21 @@ console.log('name' in melon);
 console.log('age' in melon);
 console.log('random' in melon);
 console.log(melon.random);
+
+// 6. for..in vs for..of
+// for (key in obj)
+console.clear();
+for (key in melon) {
+    console.log(key);
+}
+
+// for (value of iterable)
+const array = [1, 2, 3, 4, 5];
+for(value of array) {
+    console.log(value);
+}
+
+// 7. Fun cloning
+// Object.assign(dest, [obj1, obj2, obj3 ...])
+const user = { name: 'melon', age: '26'}
+const user2 = user;
