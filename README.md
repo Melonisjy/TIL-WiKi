@@ -20,5 +20,7 @@
 - [Object Vs Class(class.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/class.js)
 
 - [Object 정리(object.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/object.js)
+
+- [Array 정리(array.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/array.js)
 ### WEB
 - [SPA(Single Page Application)](https://github.com/Melonisjy/TIL/blob/main/WEB/SPA.md)
