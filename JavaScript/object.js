@@ -75,3 +75,23 @@ for(value of array) {
 // Object.assign(dest, [obj1, obj2, obj3 ...])
 const user = { name: 'melon', age: '26'}
 const user2 = user;
+user2.name = 'coder';
+console.log(user);
+
+// old way
+const user3 = {};
+for (key in user) {
+    user3[key] = user[key];
+}
+console.clear();
+console.log(user3);
+
+const user4 = Object.assign({}, user) //copy
+console.log(user4);
+
+// another example
+const fruit1 = { color: 'red'};
+const fruit2 = { color: 'blue', size: 'big'};
+const mixed = Object.assign({}, fruit1, fruit2);
+console.log(mixed.color);
+console.log(mixed.size);
