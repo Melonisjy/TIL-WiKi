@@ -37,5 +37,5 @@ contract lec2 {
     uint256 public uit = 132213;
     // + - * /
 
-    uint8 public uit2 = 256;
+    uint8 public uit2 = 2562;
 }
