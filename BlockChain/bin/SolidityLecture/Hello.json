@@ -1,0 +1,130 @@
+{
+    "contractName": "Hello",
+    "abi": [
+        {
+            "constant": true,
+            "inputs": [],
+            "name": "hi",
+            "outputs": [
+                {
+                    "internalType": "string",
+                    "name": "",
+                    "type": "string"
+                }
+            ],
+            "payable": false,
+            "stateMutability": "view",
+            "type": "function"
+        }
+    ],
+    "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"constant\":true,\"inputs\":[],\"name\":\"hi\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"c:/Users/dhy24/OneDrive/\\ubc14\\ud0d5 \\ud654\\uba74/Melonisjy/Git/TIL/BlockChain/SolidityLecture/lec1.sol\":\"Hello\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"c:/Users/dhy24/OneDrive/\\ubc14\\ud0d5 \\ud654\\uba74/Melonisjy/Git/TIL/BlockChain/SolidityLecture/lec1.sol\":{\"keccak256\":\"0x91a18be48964acbc3962309971073994f70583b7577e260a3c48558ec123c090\",\"urls\":[\"bzz-raw://70bbcf666acc475f1fe2102322c629c4aae04c9d3a9580f7802e7b8443ff5dc9\",\"dweb:/ipfs/Qmb97gKaJrhXN81K7JeGaMGr4jmBoysKrpYeezoo2KJ8Lj\"]}},\"version\":1}",
+    "bytecode": "60c0604052600e60808190526d48656c6c6f20736f6c696469747960901b60a090815261002f9160009190610042565b5034801561003c57600080fd5b506100dd565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f1061008357805160ff19168380011785556100b0565b828001600101855582156100b0579182015b828111156100b0578251825591602001919060010190610095565b506100bc9291506100c0565b5090565b6100da91905b808211156100bc57600081556001016100c6565b90565b610170806100ec6000396000f3fe608060405234801561001057600080fd5b506004361061002b5760003560e01c8063a99dca3f14610030575b600080fd5b6100386100ad565b6040805160208082528351818301528351919283929083019185019080838360005b8381101561007257818101518382015260200161005a565b50505050905090810190601f16801561009f5780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b6000805460408051602060026001851615610100026000190190941693909304601f810184900484028201840190925281815292918301828280156101335780601f1061010857610100808354040283529160200191610133565b820191906000526020600020905b81548152906001019060200180831161011657829003601f168201915b50505050508156fea265627a7a72315820f6720e664addd537e633fb55faaca768d9ccf3df50c099099a63d591e54da29d64736f6c63430005100032",
+    "deployedBytecode": "608060405234801561001057600080fd5b506004361061002b5760003560e01c8063a99dca3f14610030575b600080fd5b6100386100ad565b6040805160208082528351818301528351919283929083019185019080838360005b8381101561007257818101518382015260200161005a565b50505050905090810190601f16801561009f5780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b6000805460408051602060026001851615610100026000190190941693909304601f810184900484028201840190925281815292918301828280156101335780601f1061010857610100808354040283529160200191610133565b820191906000526020600020905b81548152906001019060200180831161011657829003601f168201915b50505050508156fea265627a7a72315820f6720e664addd537e633fb55faaca768d9ccf3df50c099099a63d591e54da29d64736f6c63430005100032",
+    "sourceMap": "91:35:0:-;69:61;91:35;;69:61;91:35;;;-1:-1:-1;;;91:35:0;;;;;;-1:-1:-1;;91:35:0;;:::i;:::-;;69:61;8:9:-1;5:2;;;30:1;27;20:12;5:2;69:61:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;69:61:0;;;-1:-1:-1;69:61:0;:::i;:::-;;;:::o;:::-;;;;;;;;;;;;;;;;;;;;:::o;:::-;;;;;;;",
+    "deployedSourceMap": "69:61:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;69:61:0;;;;;;;;;;;;;;;;;;;91:35;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:100:-1;33:3;30:1;27:10;8:100;;;90:11;;;84:18;71:11;;;64:39;52:2;45:10;8:100;;;12:14;91:35:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;;91:35:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o",
+    "sourcePath": "c:/Users/dhy24/OneDrive/바탕 화면/Melonisjy/Git/TIL/BlockChain/SolidityLecture/lec1.sol",
+    "compiler": {
+        "name": "solc",
+        "version": "0.5.16+commit.9c3226ce"
+    },
+    "ast": {
+        "absolutePath": "c:/Users/dhy24/OneDrive/바탕 화면/Melonisjy/Git/TIL/BlockChain/SolidityLecture/lec1.sol",
+        "exportedSymbols": {
+            "Hello": [
+                5
+            ]
+        },
+        "id": 6,
+        "nodeType": "SourceUnit",
+        "nodes": [
+            {
+                "id": 1,
+                "literals": [
+                    "solidity",
+                    ">=",
+                    "0.4",
+                    ".25",
+                    "<",
+                    "0.7",
+                    ".0"
+                ],
+                "nodeType": "PragmaDirective",
+                "src": "33:32:0"
+            },
+            {
+                "baseContracts": [],
+                "contractDependencies": [],
+                "contractKind": "contract",
+                "documentation": null,
+                "fullyImplemented": true,
+                "id": 5,
+                "linearizedBaseContracts": [
+                    5
+                ],
+                "name": "Hello",
+                "nodeType": "ContractDefinition",
+                "nodes": [
+                    {
+                        "constant": false,
+                        "id": 4,
+                        "name": "hi",
+                        "nodeType": "VariableDeclaration",
+                        "scope": 5,
+                        "src": "91:35:0",
+                        "stateVariable": true,
+                        "storageLocation": "default",
+                        "typeDescriptions": {
+                            "typeIdentifier": "t_string_storage",
+                            "typeString": "string"
+                        },
+                        "typeName": {
+                            "id": 2,
+                            "name": "string",
+                            "nodeType": "ElementaryTypeName",
+                            "src": "91:6:0",
+                            "typeDescriptions": {
+                                "typeIdentifier": "t_string_storage_ptr",
+                                "typeString": "string"
+                            }
+                        },
+                        "value": {
+                            "argumentTypes": null,
+                            "hexValue": "48656c6c6f20736f6c6964697479",
+                            "id": 3,
+                            "isConstant": false,
+                            "isLValue": false,
+                            "isPure": true,
+                            "kind": "string",
+                            "lValueRequested": false,
+                            "nodeType": "Literal",
+                            "src": "110:16:0",
+                            "subdenomination": null,
+                            "typeDescriptions": {
+                                "typeIdentifier": "t_stringliteral_664e0d6ac32d7bffe41380a577247ef23a621c7f88d5104f4b5d1baa68dd5bdc",
+                                "typeString": "literal_string \"Hello solidity\""
+                            },
+                            "value": "Hello solidity"
+                        },
+                        "visibility": "public"
+                    }
+                ],
+                "scope": 6,
+                "src": "69:61:0"
+            }
+        ],
+        "src": "33:97:0"
+    },
+    "functionHashes": {
+        "hi()": "a99dca3f"
+    },
+    "gasEstimates": {
+        "creation": {
+            "codeDepositCost": "73600",
+            "executionCost": "infinite",
+            "totalCost": "infinite"
+        },
+        "external": {
+            "hi()": "infinite"
+        }
+    }
+}
