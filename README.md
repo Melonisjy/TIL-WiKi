@@ -35,3 +35,5 @@
 ### BlockChain
 
 - [솔리디티 깨부수기 유튜브 강좌](https://github.com/Melonisjy/TIL/blob/main/BlockChain/SolidityLecture)
+
+- [WEB 3.0이란?](https://github.com/Melonisjy/TIL/blob/main/BlockChain/개념정리/web3.0.md)
