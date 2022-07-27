@@ -4,6 +4,12 @@
 
 ## 🔍Categories
 
+### NestJS로 API 만들기
+
+### [https://nomadcoders.co/nestjs-fundamentals](https://nomadcoders.co/nestjs-fundamentals)
+
+-
+
 ### Nest
 
 - [NestJS란?](https://github.com/Melonisjy/TIL/blob/main/Nest/NestJS.md)
