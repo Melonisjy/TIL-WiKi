@@ -8,7 +8,9 @@
 
 ### [https://nomadcoders.co/nestjs-fundamentals](https://nomadcoders.co/nestjs-fundamentals)
 
--
+- [강의를 들으며 정리한 내용](https://github.com/Melonisjy/TIL/blob/main/NestJS로API만들기/lecture-NestJS.md)
+
+- [hi-nest](https://github.com/Melonisjy/hi-nest)
 
 ### Nest
 
