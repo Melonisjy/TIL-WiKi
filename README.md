@@ -4,7 +4,7 @@
 
 ## 🔍Categories
 
-### NestJS로 API 만들기
+### 📌NestJS로 API 만들기
 
 ### [https://nomadcoders.co/nestjs-fundamentals](https://nomadcoders.co/nestjs-fundamentals)
 
@@ -12,11 +12,11 @@
 
 - [hi-nest](https://github.com/Melonisjy/hi-nest)
 
-### Nest
+### 📌Nest
 
 - [NestJS란?](https://github.com/Melonisjy/TIL/blob/main/Nest/NestJS.md)
 
-### JavaScript
+### 📌JavaScript
 
 - [script async와 script defer의 차이점](https://github.com/Melonisjy/TIL/blob/main/JavaScript/async-defer.md)
 
@@ -36,11 +36,11 @@
 
 - [Array 정리(array.js)](https://github.com/Melonisjy/TIL/blob/main/JavaScript/array.js)
 
-### WEB
+### 📌WEB
 
 - [SPA(Single Page Application)](https://github.com/Melonisjy/TIL/blob/main/WEB/SPA.md)
 
-### BlockChain
+### 📌BlockChain
 
 - [솔리디티 깨부수기 유튜브 강좌](https://github.com/Melonisjy/TIL/blob/main/BlockChain/SolidityLecture)
 
