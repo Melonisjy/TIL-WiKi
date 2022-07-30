@@ -1,6 +1,6 @@
 # 📘 TIL(Today I Learned) Wiki
 
-[https://melon-is-jy.tistory.com/](https://melon-is-jy.tistory.com/)
+📍[https://melon-is-jy.tistory.com/](https://melon-is-jy.tistory.com/)
 
 ## 🔍Categories
 
@@ -10,7 +10,11 @@
 
 - [강의를 들으며 정리한 내용](https://github.com/Melonisjy/TIL/blob/main/NestJS로API만들기/lecture-NestJS.md)
 
-- [hi-nest](https://github.com/Melonisjy/hi-nest)
+### 📌Solidity를 사용한 이더리움 블록체인 개발자 부트캠프
+
+### 🚩[https://www.udemykorea.com/course/id/2303](https://www.udemykorea.com/course/id/2303)
+
+- [Section 2 정리한 내용](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain-Section2-블록체인의이해.md)
 
 ### 📌Nest
 
