@@ -14,7 +14,7 @@
 
 ### 🚩[https://www.udemykorea.com/course/id/2303](https://www.udemykorea.com/course/id/2303)
 
-- [Section 2 정리한 내용](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain-Section2-블록체인의이해.md)
+- [Section 2 정리한 내용](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section2-블록체인의이해.md)
 
 ### 📌Nest
 
