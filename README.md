@@ -14,12 +14,18 @@
 
 ### 🚩[https://www.udemykorea.com/course/id/2303](https://www.udemykorea.com/course/id/2303)
 
-- [Section 2 정리한 내용](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section2-블록체인의이해.md)
+- Section 2 정리한 내용
+
+  - [블록체인의 이해](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section2-블록체인의이해.md)
 
 - section 3 정리한 내용
+
   - [메타마스크, 인퓨라, 블록체인 노드, 원장(Ledger)](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section3-메타마스크,인퓨라,노드,원장.md)
   - [이더리움 트랜잭션과 서명, 개인키/공개키](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section3-이더리움트랜잭션과서명,개인키,공개키.md)
   - [암호화 해싱(Cryptographic Hashing)](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section3-암호화해싱.md)
+
+- Section 4 정리한 내용
+  -
 
 ### 📌Nest
 
