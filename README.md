@@ -21,7 +21,9 @@
 - section 3 정리한 내용
 
   - [메타마스크, 인퓨라, 블록체인 노드, 원장(Ledger)](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section3-메타마스크,인퓨라,노드,원장.md)
+
   - [이더리움 트랜잭션과 서명, 개인키/공개키](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section3-이더리움트랜잭션과서명,개인키,공개키.md)
+
   - [암호화 해싱(Cryptographic Hashing)](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section3-암호화해싱.md)
 
 - Section 4 정리한 내용
@@ -29,7 +31,10 @@
   - [스마트 계약 만들기](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-스마트계약만들기.md)
 
   - [첫 스마트 계약 .sol 파일](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-First_SmartContract.sol)
+
   - [블록체인 노드 이해하기](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain\Section4-블록체인노드.md)
+
+  - [Variables.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain\Section4-Variables.sol)
 
 ### 📌Nest
 
