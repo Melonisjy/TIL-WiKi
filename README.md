@@ -29,6 +29,7 @@
   - [스마트 계약 만들기](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-스마트계약만들기.md)
 
   - [첫 스마트 계약 .sol 파일](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-First_SmartContract.sol)
+  - [블록체인 노드 이해하기](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain\Section4-블록체인노드.md)
 
 ### 📌Nest
 
