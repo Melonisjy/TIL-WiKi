@@ -10,6 +10,8 @@
 
 - [강의를 들으며 정리한 내용](https://github.com/Melonisjy/TIL/blob/main/NestJS로API만들기/lecture-NestJS.md)
 
+<br>
+
 ### 📌Solidity를 사용한 이더리움 블록체인 개발자 부트캠프
 
 ### 🚩[https://www.udemykorea.com/course/id/2303](https://www.udemykorea.com/course/id/2303)
@@ -37,6 +39,8 @@
   - [Variables.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain\Section4-Variables.sol)
 
   - [솔리디티 값 타입 변수](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain\Section4-솔리디티-타입-변수.md)
+
+  <br>
 
 ### 📌Nest
 
