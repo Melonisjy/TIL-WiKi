@@ -34,11 +34,11 @@
 
   - [First_SmartContract.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-First_SmartContract.sol)
 
-  - [블록체인 노드 이해하기](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain\Section4-블록체인노드.md)
+  - [블록체인 노드 이해하기](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-블록체인노드.md)
 
-  - [Variables.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain\Section4-Variables.sol)
+  - [Variables.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-Variables.sol)
 
-  - [솔리디티 값 타입 변수](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain\Section4-솔리디티-타입-변수.md)
+  - [솔리디티 값 타입 변수](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-솔리디티-타입-변수.md)
 
   <br>
 
