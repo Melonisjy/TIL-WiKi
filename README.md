@@ -32,13 +32,17 @@
 
   - [스마트 계약 만들기](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-스마트계약만들기.md)
 
-  - [First_SmartContract.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-First_SmartContract.sol)
+    - [First_SmartContract.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/First_SmartContract.sol)
 
   - [블록체인 노드 이해하기](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-블록체인노드.md)
 
-  - [Variables.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-Variables.sol)
-
   - [솔리디티 값 타입 변수](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-솔리디티-타입-변수.md)
+
+    - [Variables.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Variables.sol)
+
+  - [주소 및 글로벌 메세지 객체](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-주소및글로벌메시지객체.md)
+
+    - [Address.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Address.sol)
 
   <br>
 
