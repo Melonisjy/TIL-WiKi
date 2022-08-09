@@ -48,6 +48,12 @@
 
     - [StartStopUpdateExample.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/StartStopUpdateExample.sol)
 
+  - [매핑, 구조체, 배열](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-매핑,구조체,배열.md)
+
+    - [SimpleMappingExample.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/SimpleMappingExample.sol)
+
+    - [MappingStructExample.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/MappingStructExample.sol)
+
   <br>
 
 ### 📌Nest
