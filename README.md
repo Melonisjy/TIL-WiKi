@@ -95,3 +95,5 @@
 ### 📌Database
 
 - [ORM 이란?](https://github.com/Melonisjy/TIL/blob/main/Database/ORM.md)
+
+- [DBMS별 DB와 Schema의 차이점](https://github.com/Melonisjy/TIL/blob/main/Database/DBvsSchema.md)
