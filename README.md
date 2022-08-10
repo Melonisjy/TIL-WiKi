@@ -54,6 +54,10 @@
 
     - [MappingStructExample.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/MappingStructExample.sol)
 
+  - [오류 및 예외 처리](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-오류와예외처리.md)
+
+    - [ExceptionExample.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/ExceptionExample.sol)
+
   <br>
 
 ### 📌Nest
