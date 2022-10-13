@@ -72,6 +72,10 @@
 
     - [Events.sol](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Events.sol)
 
+  - [ABI,디버깅,가스](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/Section4-ABI%2C%EB%94%94%EB%B2%84%EA%B9%85%2C%EA%B0%80%EC%8A%A4.md)
+
+  - [가스에 대한 정리](https://github.com/Melonisjy/TIL/blob/main/Udemy-Solidity-Blockchain/About%20'Gas'.md)
+
   <br>
 
 ### 📌Nest
