@@ -2,6 +2,8 @@
 
 📍[https://melon-is-jy.tistory.com/](https://melon-is-jy.tistory.com/)
 
+📍[https://velog.io/@meloncoder](https://velog.io/@meloncoder)
+
 ## 🔍Categories
 
 ### 📌NestJS로 API 만들기
