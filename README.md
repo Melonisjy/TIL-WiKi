@@ -110,7 +110,7 @@
 
 ### 📌BlockChain
 
-- [블록체인 용어 정리](https://github.com/Melonisjy/TIL/blob/main/BlockChain/용어정리.md)
+- [블록체인 용어 정리](https://github.com/Melonisjy/TIL-WiKi/blob/main/BlockChain/용어정리.md)
 
 - [솔리디티 깨부수기 유튜브 강좌](https://github.com/Melonisjy/TIL/blob/main/BlockChain/SolidityLecture)
 
